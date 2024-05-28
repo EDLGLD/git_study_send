@@ -96,7 +96,7 @@ div,li{
     background-image: url("../images/sample_menu_bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    object-fit: contain;
+    background-attachment: fixed;
 }
 
 .menu_title{
@@ -164,7 +164,6 @@ div,li{
     width:80px;
     display:flex;
 }
-
 
 .center{
     text-align:center;
